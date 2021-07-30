@@ -24,10 +24,9 @@
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>com.myPower24</groupId>
-            <artifactId>myPower24-CommonLib</artifactId>
-            <version>1.0.6</version>
-            <type>jar</type>
+            <groupId>com.mypower24</groupId>
+            <artifactId>commonlib</artifactId>
+            <version>2.1.1</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
